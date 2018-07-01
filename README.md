@@ -11,5 +11,7 @@ https://www.edx.org/course/using-python-research-harvardx-ph526x-0
 **Week 3 Case Study 2: Language Processing** [Jupiter Notebook](https://github.com/mmichal9/Using_Python_for_Research-edx.org-/blob/master/Week_3_CS2.ipynb)  
 **Week 3 Case Study 3: Introduction to Classification** [Jupiter Notebook](https://github.com/mmichal9/Using_Python_for_Research-edx.org-/blob/master/Week_3_CS3.ipynb)  
 **Week 4 Case Study 5: Bird Migration** [Jupiter Notebook](https://github.com/mmichal9/Using_Python_for_Research-edx.org-/blob/master/Week_4_CS5.ipynb)  
+**Week 4 Case Study 6: Social Network Analysis** [Jupiter Notebook](https://github.com/mmichal9/Using_Python_for_Research-edx.org-/blob/master/Week_4_CS6.ipynb)  
+**Week 5 Part 1: Linear Regression** [Jupiter Notebook](https://github.com/mmichal9/Using_Python_for_Research-edx.org-/blob/master/Week_5_p1.ipynb)  
 
 
