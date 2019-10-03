@@ -1,6 +1,6 @@
 # Using Python for Research - edx.org
 
-Those are my personal notes taken while working on the EDX free Using Python for Research course. Please fill free to use them as additional resources to the videos provided by EDX. You can also find the link to the original Using Python for Research course below.
+Notes were taken while working on the EDX free Using Python for Research course. Please fill free to use them as additional resources to the videos provided by EDX. You can also find the link to the original Using Python for Research course below.
 https://www.edx.org/course/using-python-research-harvardx-ph526x-0
   
 **Week 1: Basics of Python** [Jupiter Notebook](https://github.com/mmichal9/Using_Python_for_Research-edx.org-/blob/master/Week_1.ipynb)  
